@@ -1,0 +1,32 @@
+{
+  "name": "cesar-brute",
+  "version": "1.0.0",
+  "description": "For listing 26 brute force solutions to a common cesar cipher",
+  "main": "decode.js",
+  "scripts": {
+    "test": "mocha decode_test.js",
+    "start": "node decode.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abstractsins/cesarCipherBrute.git"
+  },
+  "keywords": [
+    "cesar",
+    "cipher",
+    "brute",
+    "force",
+    "legacy",
+    "decode",
+    "shift"
+  ],
+  "author": "Daniel J Berlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abstractsins/cesarCipherBrute/issues"
+  },
+  "homepage": "https://github.com/abstractsins/cesarCipherBrute#readme",
+  "devDependencies": {
+    "mocha": "^9.1.4"
+  }
+}
