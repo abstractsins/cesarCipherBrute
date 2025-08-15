@@ -2,8 +2,8 @@
 
 ## for basic brute force plaintext solutions of a cesar cipher with unknown key
 
-the ciphertext is passed through the command line as an argument: `node decode.js "example cipher"`
+the ciphertext is passed through the command line as an argument: `node decode.js "example cipher to decode"`
 
 ## Includes encoding
 
-`node encode.js "example cipher" {shift}`
+`node encode.js "example text to encode" #shift`
