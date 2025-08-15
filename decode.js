@@ -31,4 +31,4 @@ const decoder = {
 decoder.brute(cipherText);
 
 // EXPORTS
-module.exports = decoder;
+export default decoder;

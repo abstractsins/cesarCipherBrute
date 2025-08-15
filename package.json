@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "For listing 26 brute force solutions to a common cesar cipher",
   "main": "decode.js",
+  "type": "module",
   "scripts": {
     "test": "mocha decode_test.js",
     "start": "node decode.js"
